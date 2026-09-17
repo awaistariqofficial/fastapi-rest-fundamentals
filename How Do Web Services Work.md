@@ -1,4 +1,5 @@
 # How Do Web Services Work?
+<img width="2720" height="1200" alt="web_service_communication_flow" src="https://github.com/user-attachments/assets/8d3df1ae-23e5-4822-9ce1-444e295be1f4" />
 
 Web services and REST APIs power most of the apps and websites we use every day. They let different applications talk to each other and share data over a network — usually the internet.
 
