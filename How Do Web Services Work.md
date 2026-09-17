@@ -102,5 +102,3 @@ Not a data-exchange protocol itself — **UDDI (Universal Description, Discovery
 | Typical use case | Modern web/mobile apps | Enterprise systems | Legacy/simple RPC calls |
 
 ---
-
-*Up next: a deeper dive into how REST APIs work — methods, status codes, and resource design.*
